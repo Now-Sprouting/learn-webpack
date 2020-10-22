@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://01-webpack-demo(2.3)/./src/index.js"],"names":["consoe","log"],"mappings":"AAAAA,OAAOC,IAAI","file":"boundle.js","sourcesContent":["consoe.log(123);"],"sourceRoot":""}

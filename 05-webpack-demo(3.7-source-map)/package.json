@@ -1,0 +1,19 @@
+{
+  "name": "01-webpack-demo(2.3)",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "boundle": "webpack"
+  },
+  "author": "Dell Lee",
+  "license": "ISC",
+  "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "file-loader": "^6.1.1",
+    "html-webpack-plugin": "^4.5.0",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.1.3",
+    "webpack-cli": "^4.1.0"
+  }
+}
