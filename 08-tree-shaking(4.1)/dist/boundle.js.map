@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://01-webpack-demo(2.3)/./src/math.js"],"names":["console","log","x"],"mappings":"mBACIA,QAAQC,IAAIC,I","file":"boundle.js","sourcesContent":["export const add = (x, y) => {\r\n    console.log(x + y);\r\n}\r\n\r\nexport const sub = (x, y) => {\r\n    retrun (x - y)\r\n}"],"sourceRoot":""}
