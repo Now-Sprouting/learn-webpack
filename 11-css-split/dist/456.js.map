@@ -1,0 +1,1 @@
+{"version":3,"file":"456.js","sources":["webpack://01-webpack-demo(2.3)/./src/index.js"],"sourcesContent":["import css from './style.css'\r\nimport css1 from './style1.css'"],"mappings":";;;;;;AAAA;AACA;AACA;A;;A","sourceRoot":""}
